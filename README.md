@@ -1,2 +1,5 @@
 ### gin-gorm_pro
-this repo contains golang programs using gin-gonic and gorm.
+It is a just simple RESTful API with Go using:
+1).Gin Framework
+2).Gorm
+
